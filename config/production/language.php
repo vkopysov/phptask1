@@ -1,1 +1,4 @@
-language.php
+<?php 
+return array(
+  lang => "English"  
+);
