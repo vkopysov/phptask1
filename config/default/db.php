@@ -1,6 +1,6 @@
 <?php
 return array(
-host => "defaultnhost",    
-user => "admin",
+host => "defaulthost",    
+user => "user",
 pass => "defaultpass"
 );
