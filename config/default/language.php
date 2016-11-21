@@ -1,4 +1,2 @@
 <?php 
-return array(
-  lang => "Russian"  
-);
+return "Russian";

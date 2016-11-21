@@ -1,4 +1,2 @@
 <?php 
-return array(
-  template => "template"  
-);
+return "template";
