@@ -2,19 +2,23 @@
 /*
 
 pochinit put/getenv
-$_ENV["MYENV"]="new_variable";
+ 
 
-getenv("PROJECT_PHP_SERVER");
-
-putenv("PROJECT_PHP_SERVER=development");
-
+phpinfo();
+getenv("LANG");
+putenv("AD=development");
+echo "<pre>";
+print_r($_ENV);
+echo "</pre>";
     
 */
 
 
+
 /* */
-//$_ENV["PROJECT_PHP_SERVER"]="production";
+$_ENV["PROJECT_PHP_SERVER"]="production";
 //$_ENV["PROJECT_PHP_SERVER"]="develop";
+
 
 $config = array();
 $config['db'] = include('config/default/db.php');
