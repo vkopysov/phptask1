@@ -16,8 +16,13 @@ error_reporting(E_ALL);
         echo '<br>';
         //echo calculate(10,5);
         echo '<br>';
-    } catch (Exception $ex) {
+    }
+    catch (MyException $ex) {
            echo $ex->getMessage()." Код ошибки : ".$ex->getCode();
+           
+    }
+    catch (Exception $ex) {
+           echo $ex->getMessage();
            
     }
     
