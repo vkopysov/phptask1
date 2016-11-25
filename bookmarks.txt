@@ -1,0 +1,13 @@
+https://habrahabr.ru/post/174467/
+https://habrahabr.ru/post/130597/
+https://trowski.com/2015/06/24/throwable-exceptions-and-errors-in-php7/
+http://eax.me/git-commands/
+https://www.prolinux.org/post/korotkii-spravochnik-po-git-komandam/
+https://www.digitalocean.com/community/tutorials/apache-ubuntu-14-04-lts-ru
+https://www.digitalocean.com/community/tutorials/linux-apache-mysql-php-lamp-ubuntu-14-04-ru#%D0%BD%D0%B5%D0%BE%D0%B1%D1%85%D0%BE%D0%B4%D0%B8%D0%BC%D1%8B%D0%B5-%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F
+https://docs.google.com/document/d/1b9u0iFYh-qKfTpKFZciVSbgb4ZaScq6Hp3S_pGSr00k/edit
+https://docs.google.com/document/d/1sSRZPP52GOmi7deF28uRpf-3BUKDO2jcopaJpg7aZs0/edit#
+https://docs.google.com/document/d/1d8-LrF0CTyOmjjRMYvOeDIbhuEtPdln0MfHuI6WDcVU/edit
+http://anton.shevchuk.name/php/php-for-beginners-include-files/
+http://anton.shevchuk.name/php/php-for-beginners-output-buffer/
+http://anton.shevchuk.name/php/php-for-beginners-error-handling/
